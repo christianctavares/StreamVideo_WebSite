@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "title": "Minha Stream",
+      "description": "Descricao da minha primeira stream",
+      "id": 1
+    },
+    {
+      "title": "Editei porra",
+      "description": "Editei a porra da descricao tb",
+      "id": 2
+    },
+    {
+      "title": "Editei tb",
+      "description": "Editei tb a descricao",
+      "id": 4
+    },
+    {
+      "title": "Eae Monark aqui!",
+      "description": "E bem vindo a mais um videoxxxx",
+      "id": 5
+    },
+    {
+      "title": "blablal",
+      "description": "mmmmm",
+      "userId": "102390079819509752924",
+      "id": 6
+    },
+    {
+      "title": "adasdas",
+      "description": "dsadsadsad",
+      "userId": "102390079819509752924",
+      "id": 7
+    },
+    {
+      "title": "ssss",
+      "description": "sssss",
+      "userId": "102390079819509752924",
+      "id": 8
+    },
+    {
+      "title": "ff",
+      "description": "ff",
+      "userId": "102390079819509752924",
+      "id": 9
+    },
+    {
+      "title": "fytytytry",
+      "description": "yrtyrtytry",
+      "userId": "102390079819509752924",
+      "id": 10
+    }
+  ]
+}
